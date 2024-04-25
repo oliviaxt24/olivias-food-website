@@ -1,0 +1,27 @@
+
+body {
+	background-color: #F7EDF0;
+
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1 {
+	color: #69353F;
+	text-align: center;
+	font-family: "Roboto Condensed", serif;
+	font-size: 60px;
+}
+
+p, li, a {
+	font-family: "Arial", san-serif;
+}
+
+
+p, li, a {
+	color: #69353F;
+	text-align: left;
+	font-family: "Roboto Condensed", serif;
+	font-size: 20px;
