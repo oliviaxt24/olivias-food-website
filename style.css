@@ -1,4 +1,6 @@
 
+
+
 body {
 	background-color: #F7EDF0;
 
@@ -19,9 +21,34 @@ p, li, a {
 	font-family: "Arial", san-serif;
 }
 
-
 p, li, a {
 	color: #69353F;
 	text-align: left;
 	font-family: "Roboto Condensed", serif;
 	font-size: 20px;
+
+	.topnav {
+   background-color: #210203;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #210203;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: red;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: purple;
+   color: white;
+}
+
+
